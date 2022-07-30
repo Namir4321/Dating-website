@@ -1,0 +1,79 @@
+.body{
+    background-color: #FFFFFF;
+}
+.card-img{
+    border-radius: 100%;
+    width:80px;
+    height:80px;
+    position:absolute;
+    margin-top: 30px;
+}
+.card-text{
+   padding-left:112px ;
+   margin-top: 20px;
+   font-size: larger;
+}
+.card-title{
+    padding-left:110px ;
+    margin-top: 20px;
+    display: inline-block;
+    font-size: 20px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    color: #29D18B;
+    margin: 0;
+    font-weight: 780;
+}
+.card{
+
+  
+    border-radius: 0px;
+    font-family: "Roboto", sans-serif;  
+ box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.1);
+ box-shadow: 0 3px 6px rgb(0 0 0 / 16%), 0 3px 6px rgb(0 0 0 / 23%);
+
+
+  }
+  
+.card:before,
+.card:after{
+content:"";
+display:block;
+right:;
+top:0px;
+position:absolute;
+}
+.card:after{
+    border-bottom: 40px solid transparent;
+    border-left: 40px solid rgb(41, 209, 139);
+}
+
+
+
+.how:before,
+.how:after{
+content:"";
+display:block;
+left: 0px;
+bottom:40px;
+position:relative;
+}
+.how:after{
+    border-top: 40px solid transparent;
+    border-left: 40px solid rgb(41, 209, 139);
+}
+@media screen and (max-width: 762px) {
+    .card-img{
+    position: relative;
+    }
+    .card-text{
+        padding-left:2px ;
+    }
+    .card{
+        text-align: center;
+    }
+    .card-title{
+        padding: 0px;
+    }
+  }

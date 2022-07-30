@@ -1,0 +1,41 @@
+.main{
+    display: inline-block;
+    text-align: center;
+}
+.one{
+    text-align: center;
+    text-align: center;
+    margin-top: 50px;
+}
+.top{
+    text-align: center;
+    background-color: white;
+    border:solid red 5px;
+    height:70px;
+    width:70px;
+    border-radius:100px;
+    margin-left: 5cm;
+    position: absolute;
+    margin-top: -30px;
+    
+}
+.nail{
+    text-align: end;
+}
+.top:hover{
+    background-color: red;
+    color:white;
+  }
+  .des:hover {
+    color:red;
+  }
+ @media screen and (max-width: 762px) {
+   .top{
+    margin-left: 120px;
+   } 
+  }
+  @media screen and (max-width: 762px) {
+    .top{
+     margin-left: 10px;
+    } 
+   }

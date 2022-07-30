@@ -1,0 +1,98 @@
+
+.home_box{
+    display: block;
+    width:25%;
+    height: 90vh;
+    background-color: rgb(255, 255, 255);
+    margin-left: 5rem;
+    border: 5px solid #df314d;
+   float: left;
+
+}
+.home_image_image{
+    width: 156px;
+    height: 156px;
+    background: url(https://bieno.fr/themes/love/assets/images/banner/shape-top.png);
+    right: 11rem;
+    margin-left: 16rem;
+    margin-bottom: -6rem;
+    margin-top: -3rem;
+
+}
+.home_image_image_second{
+    width: 156px;
+    height: 156px;
+    background: url(https://bieno.fr/themes/love/assets/images/banner/shape-top.png);
+    right: 11rem;
+    margin-left: 16rem;
+    margin-bottom: -6rem;
+    margin-top: -3rem;
+}
+.home_box h3,h6{
+    
+
+}
+.button_box_last{
+    background-color: #df314d;
+    width: 80%;
+    height: 4rem;
+    margin-left: 2rem;
+}
+.button_box_last Button{
+    margin-left: 70px;
+    color: #210053;
+    border: none;
+
+}
+.home_image{
+    float: right;
+    height: 100vh;
+    margin-right: 6rem;
+    display: block;
+}
+
+
+/* ----------------------First_card_3-------------- */
+.First_card_container{
+}
+.First_card_3_1{
+    width: 33%;
+    height: 10rem;
+    background-color: darkcyan;
+   display: inline-block;
+}
+.First_card_3_2{
+    width: 34%;
+    height: 10rem;
+    background-color: #617dc6;
+    display: inline-block;
+}
+.First_card_3_3{
+    width: 33%;
+    height: 10rem;
+    background-color: cadetblue;
+    display: inline-block;
+}
+
+/* -----------------Second_card========================== */
+
+.Second_h2_h1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #210053;
+    font-weight: bold;
+}
+.link_navbar{
+    margin: 0px 34px 0px 0px;
+    font-weight: bold;
+    font-size: 15px;
+
+}
+
+/* -------------------------------------third_main_container------------- */
+
+.third_main_container{
+    background-color: #fff3f3;
+}
+
