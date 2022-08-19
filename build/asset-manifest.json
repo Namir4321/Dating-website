@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.fa6ba9ea.css",
+    "main.js": "/static/js/main.42dacadf.js",
+    "static/media/aru.jpeg": "/static/media/aru.06d5f353893cfaf4a41f.jpeg",
+    "static/media/apple.jpeg": "/static/media/apple.147121c2228b5584deb2.jpeg",
+    "static/media/Profile4.jpeg": "/static/media/Profile4.319284ba794b8357befa.jpeg",
+    "static/media/Mobile.jpeg": "/static/media/Mobile.76bbae61d2e8b8e39cb5.jpeg",
+    "static/media/Profile8.jpeg": "/static/media/Profile8.675ff5498403a11091bb.jpeg",
+    "static/media/Profile7.jpeg": "/static/media/Profile7.31a56d47d957cf80629f.jpeg",
+    "static/media/Profile2.jpeg": "/static/media/Profile2.03042239788688ca8493.jpeg",
+    "static/media/Profile3.jpeg": "/static/media/Profile3.d585d3aada856f8b88d6.jpeg",
+    "static/media/Profile1.jpeg": "/static/media/Profile1.096b5e5d006901a03197.jpeg",
+    "static/media/Profile9.jpeg": "/static/media/Profile9.3ae155254cbb3005b205.jpeg",
+    "static/media/google.jpeg": "/static/media/google.452028d7b9233c5f435e.jpeg",
+    "static/media/Profile5.jpeg": "/static/media/Profile5.628b2174ab47c2d410a4.jpeg",
+    "static/media/Profile11.jpeg": "/static/media/Profile11.821de7e8b724603bd868.jpeg",
+    "static/media/Profile6.jpeg": "/static/media/Profile6.498572c3a236f739b501.jpeg",
+    "index.html": "/index.html",
+    "main.fa6ba9ea.css.map": "/static/css/main.fa6ba9ea.css.map",
+    "main.42dacadf.js.map": "/static/js/main.42dacadf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fa6ba9ea.css",
+    "static/js/main.42dacadf.js"
+  ]
+}

@@ -6,6 +6,7 @@
     text-align: center;
     text-align: center;
     margin-top: 50px;
+  
 }
 .top{
     text-align: center;
@@ -17,12 +18,12 @@
     margin-left: 5cm;
     position: absolute;
     margin-top: -30px;
-    
+  
 }
 .nail{
     text-align: end;
 }
-.top:hover{
+.topone:hover{
     background-color: red;
     color:white;
   }
@@ -30,12 +31,12 @@
     color:red;
   }
  @media screen and (max-width: 762px) {
-   .top{
+   .topone{
     margin-left: 120px;
    } 
   }
   @media screen and (max-width: 762px) {
-    .top{
+    .topone{
      margin-left: 10px;
     } 
    }

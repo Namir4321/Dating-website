@@ -1,0 +1,103 @@
+.details{
+    width:110%;
+    border-radius: 20px;
+    margin:10px;
+    width:100%;
+   
+    border-radius: 20px;
+    
+    background: #fff;
+    margin: 0 auto 25px;
+    padding: 10px;
+    box-shadow: 0 1px 14px 5px rgb(0 0 0 / 15%);
+    border-radius: 7px;
+    overflow: hidden;  
+}
+.Info{
+    width:100%;
+    padding: 10px;
+    border-radius: 20px;
+    margin:10px;
+    border-radius: 20px;
+    background: #fff;
+    margin: 0 auto 25px;
+    padding: 10px;
+    box-shadow: 0 1px 14px 5px rgb(0 0 0 / 15%);
+    border-radius: 7px;
+    overflow: hidden;
+}
+.Personility{
+    width:100%;
+    padding: 10px;
+    border-radius: 20px;
+    margin:10px;
+    border-radius: 20px;
+    background: #fff;
+    margin: 0 auto 25px;
+    padding: 10px;
+    box-shadow: 0 1px 14px 5px rgb(0 0 0 / 15%);
+    border-radius: 7px;
+    overflow: hidden;
+}
+.look{
+    width:100%;
+    padding: 10px;
+    border-radius: 20px;
+    margin:10px;
+    border-radius: 20px;
+    background: #fff;
+    margin: 0 auto 25px;
+    padding: 10px;
+    box-shadow: 0 1px 14px 5px rgb(0 0 0 / 15%);
+    border-radius: 7px;
+    overflow: hidden;
+}
+.Lifestyle{
+    width:100%;
+    padding: 10px;
+    border-radius: 20px;
+    margin:10px;
+    border-radius: 20px;
+    background: #fff;
+    margin: 0 auto 25px;
+    padding: 10px;
+    box-shadow: 0 1px 14px 5px rgb(0 0 0 / 15%);
+    border-radius: 7px;
+    overflow: hidden;
+}
+.Favorites{
+    width:100%;
+    padding: 10px;
+    border-radius: 20px;
+    margin:10px;
+    border-radius: 20px;
+    background: #fff;
+    margin: 0 auto 0px;
+    padding: 10px;
+    box-shadow: 0 1px 14px 5px rgb(0 0 0 / 15%);
+    border-radius: 7px;
+    overflow: hidden;
+}
+.aboutmain{
+    width:100%;
+    padding: 10px;
+    border-radius: 20px;
+    margin:10px;
+    border-radius: 20px;
+    background: #fff;
+    margin: 0 auto 25px;
+    padding: 10px;
+    box-shadow: 0 1px 14px 5px rgb(0 0 0 / 15%);
+    border-radius: 7px;
+    overflow: hidden;
+}
+.Location{
+    box-shadow: 0 1px 0px rgb(0 0 0 / 15%);
+    margin:0px;
+}
+.aboutmain{
+    box-shadow: 0 1px 0px rgb(0 0 0 / 15%);
+}
+.img-fluid{
+margin:20px;
+}

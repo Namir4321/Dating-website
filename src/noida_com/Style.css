@@ -1,32 +1,38 @@
 
 .home_box{
-    display: block;
-    width:25%;
-    height: 90vh;
+    width:100%;
+padding: 20px;
+margin-top: 60px;
+margin-bottom: 100px;
     background-color: rgb(255, 255, 255);
-    margin-left: 5rem;
+    margin-left: 4rem;
     border: 5px solid #df314d;
-   float: left;
+    max-width: 420px;
+  
+}
+.home-heart{
+position: relative;
+margin-top: -2cm;
+width:80px;
+height:10px;
+background-color: black;
 
 }
 .home_image_image{
-    width: 156px;
-    height: 156px;
-    background: url(https://bieno.fr/themes/love/assets/images/banner/shape-top.png);
-    right: 11rem;
-    margin-left: 16rem;
-    margin-bottom: -6rem;
-    margin-top: -3rem;
+    position:relative;
+    right:100%;
+
+    
+    margin-top:20px;
 
 }
 .home_image_image_second{
-    width: 156px;
-    height: 156px;
-    background: url(https://bieno.fr/themes/love/assets/images/banner/shape-top.png);
-    right: 11rem;
-    margin-left: 16rem;
-    margin-bottom: -6rem;
-    margin-top: -3rem;
+    width: 133px;
+    height: 162px;
+    background: url(https://bieno.fr/themes/love/assets/images/banner/shape-bottom.png);
+    margin-left: -4rem;
+    margin-top: 1rem;
+
 }
 .home_box h3,h6{
     
@@ -34,12 +40,16 @@
 }
 .button_box_last{
     background-color: #df314d;
-    width: 80%;
+    width: 70%;
     height: 4rem;
-    margin-left: 2rem;
+   border: none;
+   color: #210053;
+   text-align: center;
+   font-size: x-large;
+   font-weight: 300;
 }
 .button_box_last Button{
-    margin-left: 70px;
+   
     color: #210053;
     border: none;
 
@@ -47,34 +57,41 @@
 .home_image{
     float: right;
     height: 100vh;
-    margin-right: 6rem;
+    margin-left: 3rem;
     display: block;
 }
 
 
 /* ----------------------First_card_3-------------- */
-.First_card_container{
-}
 .First_card_3_1{
-    width: 33%;
-    height: 10rem;
+    width:100%;
     background-color: darkcyan;
-   display: inline-block;
+  
+  
+  
 }
 .First_card_3_2{
-    width: 34%;
-    height: 10rem;
+    width: 100%;
     background-color: #617dc6;
-    display: inline-block;
+  
 }
 .First_card_3_3{
-    width: 33%;
-    height: 10rem;
+    width: 100%;
     background-color: cadetblue;
-    display: inline-block;
+  text-align: center;
 }
 
 /* -----------------Second_card========================== */
+.click:hover{
+    /* From https://css.glass */
+ background: rgba(255, 255, 255, 0.2);
+ border-radius: 16px;
+ box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+ backdrop-filter: blur(5px);
+ -webkit-backdrop-filter: blur(5px);
+ border: 1px solid rgba(255, 255, 255, 0.3); 
+ 
+ }
 
 .Second_h2_h1{
     display: flex;
@@ -84,10 +101,8 @@
     font-weight: bold;
 }
 .link_navbar{
-    margin: 0px 34px 0px 0px;
-    font-weight: bold;
-    font-size: 15px;
-
+    font-weight:normal;
+    padding-top: px;
 }
 
 /* -------------------------------------third_main_container------------- */
@@ -96,3 +111,41 @@
     background-color: #fff3f3;
 }
 
+
+/*----------------------------new----------------------*/
+.join{
+    color: #210053;
+    margin-bottom: 15px;
+    font-size: 1.1rem;
+}
+.main_image{
+}
+.box{
+    font-family: "Jost", sans-serif;
+  
+    
+    padding: 40px 30px;
+    margin-bottom: 100px;
+    background: #fff;     
+   margin-top: 60px;
+margin-bottom: 100px;
+    background-color: rgb(255, 255, 255);
+    margin-left: 4rem;
+    border: 5px solid #df314d;
+    max-width: 420px;
+
+
+
+}
+.heart{
+    position:relative;
+}
+.secound_card{
+    /* From https://css.glass */
+background: rgba(255, 255, 255, 0.2);
+border-radius: 16px;
+box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+backdrop-filter: blur(5px);
+-webkit-backdrop-filter: blur(5px);
+border: 1px solid rgba(255, 255, 255, 0.3);
+}

@@ -12,7 +12,7 @@ return(
     <div className="container">
     <div className="container-lg main">
    <div className="row rowone">
-   <div className="col-4 nail ">
+   <div className="col-lg-4 col-sm-12 nail ">
    <div className="container one">
    <div className="container top">
    <h6 style={{paddingTop:'10px'}} >Step</h6>
@@ -25,12 +25,12 @@ return(
    <p>Register for free & create up your good looking Profile.</p>
    </div> 
    </div>
-   <div className="col-4 nail ">
+   <div className="col-lg-4 col-sm-12 nail ">
 
    <div className="container one">
    <div className="container top">
    <h6 style={{paddingTop:'10px'}} >Step</h6>
-   <h6 style={{paddingTop:'-10px'}}>01</h6>
+   <h6 style={{paddingTop:'-10px'}}>02</h6>
    </div>
    <img src= '	https://bieno.fr/themes/love/assets/images/work/02.png' /> 
    <div className="des">
@@ -40,12 +40,12 @@ return(
    </div>
 
    </div>
-   <div className="col-4 nail">
+   <div className="col-lg-4 col-sm-12 nail">
    
    <div className="container one">
    <div className="container top">
    <h6 style={{paddingTop:'10px'}} >Step</h6>
-   <h6 style={{paddingTop:'-10px'}}>01</h6>
+   <h6 style={{paddingTop:'-10px'}}>03</h6>
    </div>
    <img src='https://bieno.fr/themes/love/assets/images/work/01.png' /> 
    <div className="des">

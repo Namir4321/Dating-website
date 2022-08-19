@@ -2,6 +2,7 @@ import React, { useState } from "react";
 import Sahil1 from '../noida_com/images/Sahil1.jpeg'
 import Button from "react-bootstrap/Button";
 import './Sahil.css'
+import { click } from "@testing-library/user-event/dist/click";
 export default function (props) {
   let [authMode, setAuthMode] = useState("signin");
 
@@ -10,10 +11,16 @@ export default function (props) {
   };
 
   if (authMode === "signin") {
+    setTimeout(()=>{
+      const hide=document.getElementById('form-title');
+      {hide.style.display='none';}
+      console.log('-hii') 
+    },1500);
+    
     return (
       <div
         style={{
-          marginTop: "-38px",
+          marginTop: "38px",
           backgroundSize: "20%",
           height: "470px",
           backgroundImage: `url(${Sahil1})`,
@@ -21,8 +28,8 @@ export default function (props) {
         className="Auth-form-container"
       >
         <form className="Auth-form">
-          <div className="Auth-form-content">
-            <h3 className="Auth-form-title">
+          <div className="Auth-form-content" >
+            <h3 className="Auth-form-title" id="form-title" onClick={setTimeout}>
               Welcome Back, <br></br>Sign In
             </h3>
             <div className="text-center">
@@ -61,11 +68,12 @@ export default function (props) {
       </div>
     );
   }
-
+ 
   return (
+    
     <div
       style={{
-        marginTop: "-38px",
+        marginTop: "38px",
         backgroundSize: "20%",
         height: "470px",
         backgroundImage: `url(${Sahil1})`,
@@ -74,7 +82,7 @@ export default function (props) {
     >
       <form className="Auth-form">
         <div className="Auth-form-content">
-          <h3 className="Auth-form-title">Sign Up</h3>
+          <h3 className="Auth-form-title"id='form-title'>Sign Up</h3>
           <div className="text-center">
             Already registered?{" "}
             <span className="link-primary" onClick={changeAuthMode}>

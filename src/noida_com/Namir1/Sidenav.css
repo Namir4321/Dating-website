@@ -1,0 +1,64 @@
+ .para{
+    background-color: grey;
+    padding: 5px;
+    border-radius: 20px;
+    margin: 0px;
+    }
+    .intrests{
+        margin: 10px;
+        margin-bottom: 30px;
+        width: 100%;
+        padding: 10px;
+        width:100%;
+        padding: 10px;
+        border-radius: 20px;
+        margin:10px;
+        border-radius: 20px;
+        background: #fff;
+        margin: 0 auto 25px;
+        padding: 10px;
+        box-shadow: 0 1px 14px 5px rgb(0 0 0 / 15%);
+        border-radius: 7px;
+        overflow: hidden;
+    }
+    .social{
+        width: 100%;
+        width:100%;
+        padding: 10px;
+        border-radius: 20px;
+        margin:10px;
+        border-radius: 20px;
+        background: #fff;
+        margin: 0 auto 25px;
+        padding: 10px;
+        box-shadow: 0 1px 14px 5px rgb(0 0 0 / 15%);
+        border-radius: 7px;
+        overflow: hidden;
+      
+    }
+    .icon{
+        width:100%;
+        
+    }
+    .socialicon{
+        font-size: 30px;
+        
+    }
+    .social{
+        width:100%;
+        margin: 10px;
+        padding: 20px;
+        border-radius: 10px;
+        width:100%;
+        padding: 10px;
+        border-radius: 20px;
+        margin:10px;
+        border-radius: 20px;
+        background: #fff;
+        margin: 0 auto 25px;
+        padding: 10px;
+        box-shadow: 0 1px 14px 5px rgb(0 0 0 / 15%);
+        border-radius: 7px;
+        overflow: hidden;
+    
+    }

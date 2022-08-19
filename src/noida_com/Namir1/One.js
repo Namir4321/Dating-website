@@ -5,11 +5,11 @@ function One  (props) {
 return(
     <>
       <div className='container-sm how'>
-    <div class="card">
-       <div class="card-body">
+    <div class="card now">
+       <div  class="card-body">
        <img src={props.img} class="card-img" alt="..."/>
-      <p class="card-text">{props.text}</p>
-      <h5 class="card-title">{props.name}</h5>
+      <p class="card-text word">{props.text}</p>
+      <h5 style={{paddingLeft:'125px',textAlign:'center'}} class="card-title">{props.name}</h5>
       </div>
   </div>
   </div>

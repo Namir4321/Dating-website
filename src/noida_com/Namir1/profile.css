@@ -1,0 +1,29 @@
+.photo{
+   }
+.data{
+ 
+    border-radius: 20px;
+    dispaly:inline-block;
+    
+    
+}
+.intrest{
+    width:100%;
+    padding: 20px;
+    border-radius: 10px;
+    
+    
+}
+.about{
+    width:100%;
+    
+    border-radius: 10px;
+    margin: 10px;
+}
+.photo{
+   
+    border-radius: 20px;
+}
+.name{
+    padding:30px;
+    }
